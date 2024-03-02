@@ -1,0 +1,15 @@
+C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\CountryModel.deps.json
+C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\CountryModel.dll
+C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\CountryModel.pdb
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.AssemblyInfoInputs.cache
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.AssemblyInfo.cs
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.csproj.CoreCompileInputs.cache
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.sourcelink.json
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.dll
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\refint\CountryModel.dll
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.pdb
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\ref\CountryModel.dll
+C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\CountryModel.runtimeconfig.json
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.genruntimeconfig.cache
+C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.csproj.AssemblyReference.cache
