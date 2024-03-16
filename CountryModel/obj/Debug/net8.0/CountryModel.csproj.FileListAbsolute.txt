@@ -13,3 +13,4 @@ C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\ref\Countr
 C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\CountryModel.runtimeconfig.json
 C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.genruntimeconfig.cache
 C:\Users\is381033\source\repos\WeatherS\CountryModel\obj\Debug\net8.0\CountryModel.csproj.AssemblyReference.cache
+C:\Users\is381033\source\repos\WeatherS\CountryModel\bin\Debug\net8.0\appsettings.json
