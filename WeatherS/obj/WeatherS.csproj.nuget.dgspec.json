@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\WeatherS.csproj": {}
+    "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\WeatherS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
+    "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj",
+        "projectUniqueName": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj",
         "projectName": "CountryModel",
-        "projectPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj",
+        "projectPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj",
         "packagesPath": "C:\\Users\\is381033\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\obj\\",
+        "outputPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -40,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -81,18 +86,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\WeatherS.csproj": {
+    "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\WeatherS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\WeatherS.csproj",
+        "projectUniqueName": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\WeatherS.csproj",
         "projectName": "WeatherS",
-        "projectPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\WeatherS.csproj",
+        "projectPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\WeatherS.csproj",
         "packagesPath": "C:\\Users\\is381033\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\obj\\",
+        "outputPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -115,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
-                "projectPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj"
+              "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
+                "projectPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj"
               }
             }
           }
@@ -125,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -177,7 +187,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

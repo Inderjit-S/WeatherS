@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NwlT0nNcSVCQO5HFsFDc8NcSB+3P725Vi4+JT2TWQgk=",
+  "Hash": "IhyuhYrxEZUHk3nvDa9ZrbpZKyz/aV9a0IthqMNkQps=",
   "Source": "WeatherS",
   "BasePath": "_content/WeatherS",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\is381033\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherS.styles.css",
+      "Identity": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherS.styles.css",
       "SourceId": "WeatherS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WeatherS",
       "RelativePath": "WeatherS.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherS.styles.css"
+      "OriginalItemSpec": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\WeatherS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherS.styles.css"
     }
   ]
 }
