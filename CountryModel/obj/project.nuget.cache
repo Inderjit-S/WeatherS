@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k8LGtVZ7TQW8/+IL4oZafF6bQ/TafJ6Trj6vhhIHXCGvU5uJXXvGQExt/JQTUtOT+vytBBHZcxj+KhPI8XcUFA==",
+  "dgSpecHash": "8YJqSylwfv+J4AEAa/Lb/SL+kLZohgnVgKRhj6N28zvAvqRlIEpLUZ3HIHn8vMnh4zjn+TKYPK9H23PIpW6Pbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj",
+  "projectFilePath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\is381033\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\is381033\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

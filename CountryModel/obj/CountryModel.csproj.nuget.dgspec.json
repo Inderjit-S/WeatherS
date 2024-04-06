@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj": {}
+    "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
+    "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj",
+        "projectUniqueName": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj",
         "projectName": "CountryModel",
-        "projectPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\CountryModel.csproj",
+        "projectPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\CountryModel.csproj",
         "packagesPath": "C:\\Users\\is381033\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\is381033\\Source\\Repos\\WeatherS\\CountryModel\\obj\\",
+        "outputPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\CountryModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
