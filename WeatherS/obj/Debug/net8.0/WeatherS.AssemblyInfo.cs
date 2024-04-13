@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1560ad6c-d7d6-49b3-a99f-31392ddf2016")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2152c4949b2a76dc97c3e5df8e8b98a3050a1c85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dedcf3f7d32202dfa2e072d4bd29a2bb1edfad6")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
