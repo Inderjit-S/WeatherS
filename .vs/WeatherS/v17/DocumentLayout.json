@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\is381033\\source\\repos\\WeatherS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\dto\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|c:\\users\\is381033\\source\\repos\\weathers\\weathers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702B3067-6985-4C31-9AA2-35C52E5174F3}|WeatherS\\WeatherS.csproj|solutionrelative:weathers\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "WeatherS\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "WeatherS\\Controllers\\CountriesController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:20:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginResult.cs",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\DTO\\LoginResult.cs",
               "RelativeDocumentMoniker": "WeatherS\\DTO\\LoginResult.cs",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "WeatherS\\DTO\\LoginRequest.cs",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "WeatherS\\DTO\\LoginRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T03:38:54.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T03:38:54.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "WeatherS\\Controllers\\AdminController.cs",
@@ -76,25 +91,24 @@
               "RelativeToolTip": "WeatherS\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T03:32:46.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T03:32:46.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\appsettings.Development.json",
               "RelativeDocumentMoniker": "WeatherS\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\appsettings.Development.json",
               "RelativeToolTip": "WeatherS\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-13T03:04:49.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "JwtHandler.cs",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\JwtHandler.cs",
               "RelativeDocumentMoniker": "WeatherS\\JwtHandler.cs",
@@ -102,18 +116,17 @@
               "RelativeToolTip": "WeatherS\\JwtHandler.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T02:59:31.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T02:59:31.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SeedController.cs",
               "DocumentMoniker": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Controllers\\SeedController.cs",
               "RelativeDocumentMoniker": "WeatherS\\Controllers\\SeedController.cs",
               "ToolTip": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Controllers\\SeedController.cs",
               "RelativeToolTip": "WeatherS\\Controllers\\SeedController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCUAAABAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCUAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T02:44:42.029Z",
               "EditorCaption": ""
@@ -126,10 +139,9 @@
               "RelativeDocumentMoniker": "WeatherS\\Program.cs",
               "ToolTip": "C:\\Users\\is381033\\source\\repos\\WeatherS\\WeatherS\\Program.cs",
               "RelativeToolTip": "WeatherS\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBkAAAAuAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T02:02:42.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T02:02:42.78Z"
             }
           ]
         }
