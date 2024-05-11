@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68eaa303347b9df475fe9ceda834b142b90c287b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b83fb8ced7415223f44eab719ab9db4b9765f8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
